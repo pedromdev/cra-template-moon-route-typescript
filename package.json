@@ -12,7 +12,7 @@
   "description": "The template to get a launch route to the moon.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pedromdev/cra-template-moon-route-typescript.git",
+    "url": "https://github.com/pedromdev/cra-template-moon-route-typescript.git"
   },
   "license": "MIT",
   "engines": {
