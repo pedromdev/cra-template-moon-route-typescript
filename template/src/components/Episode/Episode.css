@@ -1,0 +1,16 @@
+.episode {
+  font-family: 'Pathway Gothic One', sans-serif;
+  color: #ffcc01;
+  margin-bottom: 500px;
+}
+
+.episode .ep-title {
+  text-align: center;
+  font-size: 3.55rem;
+}
+
+.episode .ep-opening-crawl {
+  text-align: left;
+  font-size: 2.6rem;
+  line-height: 3.8rem;
+}
